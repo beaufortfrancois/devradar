@@ -1,0 +1,22 @@
+{
+  "name": "devradar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippeantoine/devradar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippeantoine/devradar/issues"
+  },
+  "homepage": "https://github.com/philippeantoine/devradar#readme",
+  "dependencies": {
+    "firebase-tools": "^3.16.0"
+  }
+}
